@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T07:56:11.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.5.8" etag="DkL6riTwZw_U8xOkxlhf" type="github"><diagram id="KBvu1Z7UlIUx86iJbIiU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T08:16:03.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="hiwR1p_A1MuahpYH_sl7" version="14.5.8" type="github">
+  <diagram id="KBvu1Z7UlIUx86iJbIiU" name="Page-1">
+    <mxGraphModel dx="3993" dy="-863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-27" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Hotel management system&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2940" y="1650" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-28" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Hotel management system&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2890" y="1720" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-29" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9ZvvP0weCg2pD7W7HAz-31" target="c9ZvvP0weCg2pD7W7HAz-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3040" y="1790" as="sourcePoint" />
+            <mxPoint x="-2950" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-30" value="(View the Customer detail and Room Detail&lt;br&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3050" y="1770" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-31" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3210" y="1760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-32" value="User / Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2530" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-36" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2760" y="1770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-40" value="User Register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2640" y="1770" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-41" value="Reserve a Room/ Cancel Reservation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2655" y="1810" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-47" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c9ZvvP0weCg2pD7W7HAz-32" target="c9ZvvP0weCg2pD7W7HAz-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2900" y="1820" as="sourcePoint" />
+            <mxPoint x="-2850" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-49" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.582;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c9ZvvP0weCg2pD7W7HAz-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2680" y="1800" as="sourcePoint" />
+            <mxPoint x="-2530" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-50" value="" style="shape=link;html=1;width=48.82352941176471;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-2840" y="1930" as="sourcePoint" />
+            <mxPoint x="-2740" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-52" value="" style="endArrow=classic;html=1;exitX=0.575;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c9ZvvP0weCg2pD7W7HAz-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2770" y="1870" as="sourcePoint" />
+            <mxPoint x="-2775" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2775" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-53" value="" style="endArrow=classic;html=1;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="c9ZvvP0weCg2pD7W7HAz-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2800" y="1910" as="sourcePoint" />
+            <mxPoint x="-2780" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9ZvvP0weCg2pD7W7HAz-54" value="Hotel Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2840" y="1920" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
